@@ -73,7 +73,7 @@ The code includes detailed logging, which can be useful for debugging and unders
 
 Special thanks to:
 
-- [**Retro AIM Server**](https://github.com/mk6i/retro-aim-server)
+- [**Open Oscar Server**](https://github.com/mk6i/open-oscar-server)
 - [**Aleksandr Shutko (iserverd)**](https://ox.github.io/iserverd-oscar-mirror/)
 - [**Adam Fritzler (libfaim)**](https://sobek.hsdn.org/Docs/oscar/Oscar%20Protocol%20Specification/)
 - [**Paul Swartz (Twisted Matrix)**](https://web.archive.org/web/20110412050057/http://twistedmatrix.com/trac/wiki/TwistedWords)
